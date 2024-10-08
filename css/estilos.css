@@ -50,7 +50,10 @@ body {
     display: flex;
     align-items: center;
 }
-
+.nav__logo{
+    align-items: center;
+    display: flex;
+}
 .nav__title {
     font-weight: 300;
 }
@@ -185,7 +188,8 @@ body {
 }
 
 .knowledge__picture{
-    max-width: 500px;
+    max-width: 300px;
+    height: auto;
 }
 
 .knowledge__paragraph{
